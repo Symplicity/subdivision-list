@@ -1,0 +1,13 @@
+{
+    "name": "timshadel/subdivision-list",
+    "description": "List of ISO 3166-2 subdivisions with names and ISO codes in many languages and many data formats",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Shadel",
+            "email": "nomail@test.com"
+        }
+    ],
+    "require": {}
+}
